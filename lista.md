@@ -1,5 +1,6 @@
-# Lista de lectura 2026
+#nota-salasder
 
 1. Cien años de soledad — Gabriel García Márquez ★★★★★
-2. Rayuela — Julio Cortázar
+#nota-nicolas
+2. Rayuela — Julio Cortázar (aviso: estructura no lineal, cuidado)
 3. Ficciones — Jorge Luis Borges
