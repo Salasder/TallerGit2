@@ -8,3 +8,5 @@
 3. Ficciones — Jorge Luis Borges
 4. IT - Stephen king
 5. Memorias de hitller - Albert Speer
+#nota para error nicolas
+7. aqui tiene que mostrar el error
